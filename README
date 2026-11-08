@@ -1,0 +1,17 @@
+
+##
+- HTML5 та CSS3 
+- JavaScript
+- PHP 
+- MySQL 
+## запуск через XAMPP
+1. Скопіюйте папку `CRM` у каталог `C:\xampp\htdocs\`.
+2. Відкрийте XAMPP Control Panel та запустіть **Apache** і **MySQL**.
+3. Відкрийте `http://localhost/phpmyadmin`.
+4. На вкладці **Import** імпортуйте файл `database.sql`.
+5. Відкрийте `http://localhost/CRM/`.
+
+## вхід
+- Електронна пошта: `denyspavelko@aic.local`
+- Пароль: `Admin123!`
+
